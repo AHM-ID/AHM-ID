@@ -4,7 +4,7 @@ Hi 👋 My name is Amirhossein Maleki
 Backend Developer
 -----------------
 
-I have so much to learn an excited about it !!! <br />
+I have so much to learn and I'm really excited about it !!! <br />
 *Be Your Own Hero✌️*
 
 * 🌍  I'm based in Tehran, Iran
