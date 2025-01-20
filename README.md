@@ -2,7 +2,7 @@ Hi 👋 it's Amirhossein Maleki
 ==========================================================================================================================================
 # 💫 About Me:
 🌍  I'm based in Tehran, Iran<br><br>
-🖥️  See my portfolio at PORTFOLIO<br><br>
+🖥️  See my portfolio at [PORTFOLIO](https://ahm-id.github.io)<br><br>
 ✉️  You can contact me at mr.amirhosseinmaleki@gmail.com<br><br>
 🧠  I'm currently learning OS, .NET, C, and Cloud Computing (OpenShift/IBM)<br><br>
 ⚡  I have a great feeling about the future, and I'm excited to explore the endless opportunities in cloud computing and software development.<br><br>
@@ -47,7 +47,7 @@ Maybe you don't know what that means yet, but you will! ;P
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AHM-ID&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
